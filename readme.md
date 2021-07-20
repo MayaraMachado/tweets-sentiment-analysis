@@ -82,4 +82,4 @@ Observando em detalhes os valores do modelo BERT das métricas para cada emoçã
 
 
 ## Licença
-Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/).
+Este projeto está sob a licença MIT. Veja [LICENSE](/LICENSE) para ler o texto completo.
